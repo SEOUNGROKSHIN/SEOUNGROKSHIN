@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue) 
+<img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png  width="200" height="400"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOUNGROKSHIN&exclude_repo=SEOUNGROKSHIN.github.io,SEOUNGROKSHIN.github.io-legacyblog_source,SEOUNGROKSHIN,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
