@@ -26,9 +26,9 @@
 - Received a B.Eng degree in Manufacturing and Mechanical Engineering at the University of Warwick (2014-2017)
 
 ## 🎮 Side Project
- - 우리가요 (Java + WebSevlet + Oracle)
- - https://www.notion.so/hammang/2-4b6fb4e5129e469383b953c436ba2f2d
- - BB-Project (Spring + Oracle)
+ - 우리가요(이용자와 가이드 매칭 프로그램)
+ - https://www.notion.so/projectshin/15a0b1895b9e4fa7bc2c7758d59ba698
+ - BB-Project(ERP - 그룹웨어)
  - https://www.notion.so/projectshin/BB-Project-Mybatis-Spring-ea8ec746d4d941668ea3f993f2bc3497
    
    
