@@ -1,5 +1,4 @@
-# resume
-웹개발자 포트폴리오
+# Portpolio
 
 <h1 align="center">Hi 👋, I'm Seoungrok</h1>
 
@@ -42,6 +41,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![changh95's GitHub stats](https://github-readme-stats.vercel.app/api?username=changh95&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsfhr03@gmail.com&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changh95&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
