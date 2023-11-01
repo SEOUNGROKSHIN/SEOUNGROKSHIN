@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Seoungrok</h1>
 
+## 🎓 Education
+2020 백석예술대학교 호텔경영 학과 졸업
+2020 11-5 ~ 2021-04-28 더조은 아카데미 Web&App 개발과정 수료
+
+
 ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
   - Visual-SLAM, Visual-inertial odometry, Visual-localization, Semantic SLAM
