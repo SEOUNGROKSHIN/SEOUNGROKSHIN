@@ -27,7 +27,10 @@
 
 ## 🎮 Side Project
  - 우리가요 (Java + WebSevlet + Oracle)
+ - https://www.notion.so/projectshin/java-webServlet-Oracle-15a0b1895b9e4fa7bc2c7758d59ba698
  - BB-Project (Spring + Oracle)
+ - https://www.notion.so/projectshin/BB-Project-Mybatis-Spring-ea8ec746d4d941668ea3f993f2bc3497
+   
    
 
 ## ⚡ Licences
