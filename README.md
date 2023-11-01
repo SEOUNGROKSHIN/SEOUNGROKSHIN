@@ -1,4 +1,4 @@
-# Portpolio
+# 포트폴리오
 
 <h1 align="center">Hi 👋, I'm Seoungrok</h1>
 
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsfhr03@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changh95&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
