@@ -35,7 +35,7 @@
  - https://www.notion.so/projectshin/15a0b1895b9e4fa7bc2c7758d59ba698
  - BB-Project(ERP - 그룹웨어)
  - https://www.notion.so/projectshin/BB-Project-Mybatis-Spring-ea8ec746d4d941668ea3f993f2bc3497
- -   
+ - https://github.com/SEOUNGROKSHIN?tab=repositories // 개인프로젝트 모음  
 
 ## 📝 Used Tool & Skill
 **Tool**
