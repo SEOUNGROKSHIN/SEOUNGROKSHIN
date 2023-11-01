@@ -32,7 +32,7 @@
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
 - Facebook: [Link](https://www.facebook.com/harry.chang.982/)
 <!--
-**changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SEOUNGROKSHIN/SEOUNGROKSHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changh95&exclude_repo=changh95.github.io,changh95.github.io-legacyblog_source,changh95,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOUNGROKSHIN&exclude_repo=SEOUNGROKSHIN.github.io,SEOUNGROKSHIN.github.io-legacyblog_source,SEOUNGROKSHIN,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
