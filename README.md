@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOUNGROKSHIN&exclude_repo=SEOUNGROKSHIN.github.io,SEOUNGROKSHIN.github.io-legacyblog_source,SEOUNGROKSHIN,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEOUNGROKSHIN&exclude_repo=SEOUNGROKSHIN.github.io,SEOUNGROKSHIN.github.io-legacyblog_source,SEOUNGROKSHIN,&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
