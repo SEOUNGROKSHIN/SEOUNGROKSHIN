@@ -19,18 +19,15 @@
 -->
 
 ## 🔭 Careers
-- Algorithm Engineer - Semantic SLAM at **StradVision** (2021 - **PRESENT**)
-- Research Engineer at VIRNECT (2019 - 2021)
-- Research Intern at the Bohndiek Lab, Cavendish Laboratory, University of Cambridge, UK (2019)
-- Received a M.Res degree in Medical Robotics and Image-Guided Intervention at the Hamlyn Centre, Imperial College London, UK (2017-2018)
-- Received a B.Eng degree in Manufacturing and Mechanical Engineering at the University of Warwick (2014-2017)
-
+- SCRUMI - 공공기관 유지보수 **SM** (202106 - **PRESENT**)
+- 사업지원포털 담당 (개발 , 운영)
+ 
 ## 🎮 Side Project
  - 우리가요(이용자와 가이드 매칭 프로그램)
  - https://www.notion.so/projectshin/15a0b1895b9e4fa7bc2c7758d59ba698
  - BB-Project(ERP - 그룹웨어)
  - https://www.notion.so/projectshin/BB-Project-Mybatis-Spring-ea8ec746d4d941668ea3f993f2bc3497
-   
+ -   
    
 
 ## ⚡ Licences
