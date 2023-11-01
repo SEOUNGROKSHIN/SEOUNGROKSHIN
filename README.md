@@ -1,7 +1,7 @@
 # resume
 웹개발자 포트폴리오
 
-<h1 align="center">Hi 👋, I'm Hyunggi</h1>
+<h1 align="center">Hi 👋, I'm Seoungrok</h1>
 
 ## 🌱 Interests
 - **Simultaneous Localization and Mapping (SLAM)**
