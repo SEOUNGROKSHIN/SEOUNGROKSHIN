@@ -41,9 +41,9 @@
 ## 📝 Used Tool & Skill
 **Tool**
 - **IDE**
-- eclipse , 전자정부프레임워크 ,Intelij 
+ - eclipse , 전자정부프레임워크 ,Intelij 
 - **DB**
-- Oracle , Postgre ,Tibero
+ - Oracle , Postgre ,Tibero
 
 **Skill**
   - Figma
