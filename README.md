@@ -49,6 +49,7 @@
   - Figma
   - Notion
   - git
+  - Owasp (웹보안취약점 점검툴)
 
 
 <!--
