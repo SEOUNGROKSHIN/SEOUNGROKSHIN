@@ -31,10 +31,8 @@
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
 - Facebook: [Link](https://www.facebook.com/harry.chang.982/)
-<!--
-**SEOUNGROKSHIN/SEOUNGROKSHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-📝 Used Tool & Skill
+## 📝 Used Tool & Skill
 **Tool**
 - **IDE**
 - eclipse 
@@ -42,6 +40,10 @@
 - Intelij 
 
 **Skill**
+
+<!--
+**SEOUNGROKSHIN/SEOUNGROKSHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
