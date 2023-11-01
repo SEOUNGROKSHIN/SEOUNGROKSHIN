@@ -36,9 +36,9 @@
 ## 📝 Used Tool & Skill
 **Tool**
 - **IDE**
-- eclipse 
-- 전자정부프레임워크
-- Intelij 
+-- eclipse 
+-- 전자정부프레임워크
+-- Intelij 
 
 **Skill**
 
