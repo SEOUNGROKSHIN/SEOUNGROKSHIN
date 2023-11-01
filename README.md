@@ -36,11 +36,13 @@
 ## 📝 Used Tool & Skill
 **Tool**
 - **IDE**
--- eclipse 
--- 전자정부프레임워크
--- Intelij 
-
+- eclipse , 전자정부프레임워크 ,Intelij 
+- **DB**
+- Oracle , Postgre ,Tibero
 **Skill**
+  - Figma
+  - Notion
+  - git
 
 <!--
 **SEOUNGROKSHIN/SEOUNGROKSHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
