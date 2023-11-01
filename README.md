@@ -27,7 +27,6 @@
 ## 📫 Contacts
 - LinkedIn: [Link](https://www.linkedin.com/in/hyunggi-chang/)
 - Facebook: [Link](https://www.facebook.com/harry.chang.982/)
-- 
 <!--
 **changh95/changh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
