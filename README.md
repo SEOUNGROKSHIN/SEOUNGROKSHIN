@@ -32,6 +32,8 @@
   - HTML과 CSS를 활용한 테이블을 만들어 항목을 추가 , 기업 별로 총 5년 동안의 고용 인원 , 매출 항목으로 상반기 하반기로 나눠 테이블을 볼 수 있는 항목을 신규 개발
 
 ## 🎮 Side Project
+ - Guide(기존 팀프로젝트인 우리가요에서 Thymeleaf와 Spring Boot를 활용한 프로젝트 구성)
+ - https://github.com/SEOUNGROKSHIN/spring_guide 
  - 우리가요(이용자와 가이드 매칭 프로그램)
  - https://www.notion.so/projectshin/15a0b1895b9e4fa7bc2c7758d59ba698
  - BB-Project(ERP - 그룹웨어)
