@@ -1,6 +1,6 @@
-# 포트폴리오
+# 포트폴리오🧑‍💻
 
-<h1 align="center">Hi 👋, I'm Seoungrok</h1>
+<h1 align="center">Seoungrok's Web Development Journey</h1>
 
 ## 🎓 Education
 - **2020** 백석예술대학교 호텔경영 학과 졸업
