@@ -1,4 +1,4 @@
-# 포트폴리오🧑‍💻
+# Portfolio🧑‍💻
 
 <h1 align="center">Seoungrok's Web Development Journey</h1>
 
