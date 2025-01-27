@@ -6,6 +6,11 @@
 - **2020** 백석예술대학교 호텔경영 학과 졸업
 - **2020.11.05 ~ 2021.04.28** 더조은 아카데미 Web&App 개발과정 수료
 
+## 🪪 Certification
+- **2024.09** 정보처리기사
+- **2021.07** SQLD
+- **2018.06** 운전면허증
+
 ## 🔭 Careers
 
 ### **SmartCity - Backend Developer (AI 기반 재난안전 데이터 연계 및 SmartCity 플랫폼 통합)**  
@@ -56,17 +61,14 @@
 ### **Tools**
 - **IDE**: Eclipse, IntelliJ, 전자정부프레임워크
 - **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: Jenkins, Docker
 - **Database**: Oracle, PostgreSQL, Tibero
-- **Cloud**: AWS (EC2, S3, Lambda 등)
 - **UI/UX Design**: Figma, Adobe XD
 
 ### **Skills**
 - **Frontend**: HTML, CSS, JavaScript, jQuery, AJAX, Echart.js, Slick.js, React.js
 - **Backend**: Spring Boot, Spring MVC, MyBatis, Node.js
-- **API**: RESTful API 설계, 공공 API 연동, 데이터 수집 및 처리
+- **API**: 공공 API 연동, 데이터 수집 및 처리
 - **Security**: OWASP, 보안 취약점 점검 및 수정
-- **Web Performance Optimization**: 웹 성능 최적화, 코드 리뷰 및 품질 관리
 - **Web Security**: 웹 보안 취약점 분석 및 대응
 
 ## 💻 GitHub Stats
