@@ -65,8 +65,8 @@
 - **UI/UX Design**: Figma, Adobe XD
 
 ### **Skills**
-- **Frontend**: HTML, CSS, JavaScript, jQuery, AJAX, Echart.js, Slick.js, React.js
-- **Backend**: Spring Boot, Spring MVC, MyBatis, Node.js
+- **Frontend**: HTML, CSS, JavaScript, jQuery, AJAX, Echart.js, Slick.js
+- **Backend**: Spring Boot, Spring MVC, MyBatis
 - **API**: 공공 API 연동, 데이터 수집 및 처리
 - **Security**: OWASP, 보안 취약점 점검 및 수정
 - **Web Security**: 웹 보안 취약점 분석 및 대응
