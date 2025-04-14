@@ -72,4 +72,5 @@
 - **Web Security**: 웹 보안 취약점 분석 및 대응
 
 ## 💻 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=레이아웃 스타일&theme=스타일)
