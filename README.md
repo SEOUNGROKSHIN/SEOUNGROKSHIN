@@ -73,4 +73,4 @@
 
 ## 💻 GitHub Stats
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=compact 스타일&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHINSEOUNGROK &layout=compact style&theme=dark)
