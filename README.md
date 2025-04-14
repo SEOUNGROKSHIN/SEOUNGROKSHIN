@@ -71,7 +71,7 @@
 - **Security**: OWASP, 보안 취약점 점검 및 수정
 - **Web Security**: 웹 보안 취약점 분석 및 대응
 
-## 💻 GitHub Stats
+<!--## 💻 GitHub Stats-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEOUNGROKSHIN&show_icons=true&theme=shadow_blue)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHINSEOUNGROK&layout=compact&theme=dark)
+
 
