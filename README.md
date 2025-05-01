@@ -42,41 +42,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)
 ![Ajax](https://img.shields.io/badge/Ajax-4A4A4A?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**주요 업무**
-- echart.js 기반 대시보드 및 차트 구현
-- 정규 표현식을 활용한 입력값 검증 로직 개발
-- UI/UX 개선 및 반응형 적용
-
-**프로젝트 화면**
-<details>
-  
-![image](https://github.com/user-attachments/assets/f7b03216-d02e-45c3-8423-500bbd17ebd1) 
-*echart.js를 활용한 실시간 통계 차트 구현*
-
-![입력값 검증](./images/input_validation.png)  
-*정규 표현식을 통한 입력값 검증 및 피드백 처리*
-
-![모바일 반응형 UI](./images/responsive_ui.png)  
-*반응형 UI 적용으로 다양한 해상도 대응*
-</details>
-
-### 📌 AI 기반 재난안전 데이터 연계 및 SmartCity 플랫폼 연동  
-**기간**: 2024.03 ~ 2024.06  
-**역할**: 백엔드 시스템 연계 개발  
-
-**기술스택**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
-
-**주요 업무**
-- IoT/CCTV 등 공공 데이터 실시간 연동
-- Adapter 패턴 도입으로 유연한 시스템 설계
-- REST API 기반 데이터 연계 구조 설계
-
-### 📌 여성가족부 공모사업 시스템 운영 및 유지보수  
-**기간**: 2021.11 ~ 2023.11  
-**역할**: 웹 유지보수 및 기능 개선  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=whit당   
 
 **기술스택**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![JSP](https://img.shields.io/badge/JSP-007396?style=flat)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![CronixReport](https://img.shields.io/badge/CronixReport-336791?style=flat)
