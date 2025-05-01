@@ -1,9 +1,8 @@
 # 👨‍💻 Seoungrok's Web Development Journey
 
-> 3년 7개월 동안 다양한 SI 프로젝트를 수행하며 웹 개발과 시스템 유지보수 경험을 쌓았습니다.  
-> 반복적인 업무에 머무르지 않고 React, Spring Boot 등 최신 기술을 학습하여 성장해왔습니다.  
-> 특히 공공 API 연동, 실시간 데이터 처리, 보안 취약점 개선 경험을 통해  
-> **문제 해결 능력**과 **확장성 있는 시스템 설계** 역량을 강화했습니다. 
+3년 7개월간 다양한 SI 프로젝트를 수행하며 웹 개발과 유지보수 경험을 쌓았습니다.
+React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시스템 설계 능력을 키웠습니다.
+공공 API 연동, 실시간 데이터 처리, 보안 개선 등을 통해 실무에서의 성장을 이루었습니다.
 
 ---
 
@@ -14,7 +13,7 @@
 ---
 
 ## 🪪 자격증
-- **2024.09 예정**: 정보처리기사
+- **2024.09**: 정보처리기사
 - **2021.07**: SQLD (SQL 개발자)
 - **2018.06**: 1종 보통 운전면허
 
@@ -23,11 +22,7 @@
 ## 🛠 기술 스택
 
 **Frontend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![jQuery](https://img.shields.io/badge/jQuery-0769AD?=flat&logo=jquery&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
