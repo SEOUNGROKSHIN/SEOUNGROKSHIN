@@ -25,14 +25,10 @@ React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![jQuery](https://img.shields.io/badge/jQuery-0769AD?=flat&logo=jquery&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Backend**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat&logoColor=white)
 
 **Database**  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![MyriaDB](https://img.shields.io/badge/MyriaDB-0053A0?style=flat&logoColor=blue)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
