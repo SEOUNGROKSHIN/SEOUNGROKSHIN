@@ -31,10 +31,7 @@ React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-0053A0?style=flat&logoColor=white)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
 
 ---
 
@@ -60,10 +57,7 @@ React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시
 **역할**: 백엔드 시스템 연계 개발  
 
 **기술스택**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)  
-![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
+![Java](https://img.shields.io/badge/Java-007396?style=flat)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
 
 **주요 업무**
 - IoT, CCTV, 공공 API 연동 → 실시간 재난 데이터 수집
