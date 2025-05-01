@@ -28,7 +28,7 @@ React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat&logoColor=white)
 
 **Database**  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![MyriaDB](https://img.shields.io/badge/MyriaDB-0053A0?style=flat&logoColor=blue)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-0053A0?style=flat&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
