@@ -45,11 +45,7 @@ React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시
 **역할**: 백엔드 및 프론트 통합 개발  
 
 **기술스택**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![ECharts](https://img.shields.io/badge/ECharts-002A41?style=flat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![ECharts](https://img.shields.io/badge/ECharts-002A41?style=flat&logoColor=white)
 
 **주요 업무**
 - 서버 자원, 사용자 현황 시각화 → UX 및 관리자 편의성 향상
