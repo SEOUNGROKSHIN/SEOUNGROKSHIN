@@ -1,6 +1,6 @@
 # 👨‍💻 Seoungrok's Web Development Journey
 
-비전공자로 개발에 입문해, 실무에서 발생한 장애와 이슈를 직접 해결하며 문제 해결 역량을 키워왔습니다.
+비전공자로 개발에 입문해, 실무에서 발생한 장애와 이슈를 직접 해결하며 문제 해결 역량을 키워왔습니다.<br>
 다양한 SI,SM 프로젝트에 참여하며 다양한 개발 역량을 쌓았습니다.
 지금도 단순 구현을 넘어, 사용자 경험과 시스템 안정성을 함께 고민하는 개발자로 성장 중입니다.
 
@@ -31,7 +31,7 @@
 ---
 
 ### 📌 울산 남구 공간정보 플랫폼 서비스 기능 확대
-**기간**: 2024.11 ~ 2025.04
+**기간**: 2024.11 ~ 2025.04 <br/>
 **역할**: 프론트엔드·백엔드 API 연계 개발
 
 **기술스택**
@@ -43,7 +43,6 @@
 ![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)
 ![Ajax](https://img.shields.io/badge/Ajax-4A4A4A?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
 
 **주요 업무**
 - 공공 API 기반 대시보드 및 차트 구현
@@ -110,6 +109,5 @@
 - 로컬스토리지 기반 CRUD 구현
 - 단순한 To-do 앱이지만 상태 관리 로직 설계로 로컬 데이터 지속성 확보
 
----
-감사합니다.
+## 🙏 Thanks for your attention ##
 ---
