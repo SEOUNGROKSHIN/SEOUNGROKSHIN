@@ -1,7 +1,9 @@
 # 👨‍💻 Seoungrok's Web Development Journey
+
 비전공자로 개발에 입문해, 실무에서 발생한 장애와 이슈를 직접 해결하며 문제 해결 역량을 키워왔습니다.
 다양한 SI,SM 프로젝트에 참여하며 다양한 개발 역량을 쌓았습니다.
 지금도 단순 구현을 넘어, 사용자 경험과 시스템 안정성을 함께 고민하는 개발자로 성장 중입니다.
+
 ---
 
 ## 🎓 학력
@@ -24,8 +26,29 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat&logoColor=white)
 
 **Database**  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![Tibero](https장
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)
 ---
+
+### 📌 울산 남구 공간정보 플랫폼 서비스 기능 확대
+**기간**: 2024.11 ~ 2025.04
+**역할**: 프론트엔드·백엔드 API 연계 개발
+
+**기술스택**
+![Java](https://img.shields.io/badge/Java-007396?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![ECharts.js](https://img.shields.io/badge/ECharts.js-002A41?style=flat&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)
+![Ajax](https://img.shields.io/badge/Ajax-4A4A4A?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+
+**주요 업무**
+- 공공 API 기반 대시보드 및 차트 구현
+- 정규 표현식을 활용한 입력값 검증 로직 개발
+- UI/UX 개선 및 반응형 적용
 
 ### 📌 AI 기반 재난안전 데이터 연계 및 SmartCity 플랫폼 연동  
 **기간**: 2024.03 ~ 2024.06  
@@ -44,7 +67,7 @@
 **역할**: 웹 유지보수 및 기능 개선  
 
 **기술스택**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![JSP](https://img.shields.io/badge/JSP-007396?style=flat)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat)![Dext5](https://img.shields.io/badge/Dext5-336791?style=flat)(https://img.shields.io/badge/Tibero-0053A0?style=flat)![CronixReport](https://img.shields.io/badge/CronixReport-336791?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![JSP](https://img.shields.io/badge/JSP-007396?style=flat)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![CronixReport](https://img.shields.io/badge/CronixReport-336791?style=flat)
 
 주요 업무
 - 공모 절차 기능 개선 및 리포트 커스터마이징
@@ -88,13 +111,5 @@
 - 단순한 To-do 앱이지만 상태 관리 로직 설계로 로컬 데이터 지속성 확보
 
 ---
-
-## 🚀 About Me
-
-- 공공기관, SmartCity, 실시간 데이터 시스템 등 다양한 프로젝트 경험 보유
-- 설계부터 개발, 보안, 유지보수까지 전방위 개발 사이클 수행
-- **Adapter 패턴** 및 RestTemplate 등 확장성 높은 시스템 설계 경험
-- 반복적인 업무보다는 지속적인 개선과 기술 학습을 추구하는 개발자입니다.
-
 감사합니다.
 ---
