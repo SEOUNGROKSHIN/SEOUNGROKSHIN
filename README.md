@@ -88,10 +88,7 @@ React, Spring Boot 등 최신 기술을 학습하며 문제 해결 역량과 시
 **역할**: 프론트 및 백엔드 개발  
 
 **기술스택**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)  
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
 
 **주요 업무**
 - 국세청 API 연동 → 사업자 실시간 상태 확인
