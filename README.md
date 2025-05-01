@@ -30,7 +30,7 @@
 ![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)
 ---
 
-### 📌 울산 남구 공간정보 플랫폼 서비스 기능 확대
+## 📌 울산 남구 공간정보 플랫폼 서비스 기능 확대
 **기간**: 2024.11 ~ 2025.04 <br/>
 **역할**: 프론트엔드·백엔드 API 연계 개발
 
@@ -54,21 +54,39 @@
 
 #### 사용자 현황
 ![image](https://github.com/user-attachments/assets/f7b03216-d02e-45c3-8423-500bbd17ebd1) 
++ echart.js를 활용한 실시간 차트 시각화
++ API에서 제공받은 사용자 데이터를 기반으로 실시간 현황을 시각화
++ 소속 별 사용자 현황, 부서 별 사용자 현황 집계 분포를 직관적으로 표현하여 관리자 운영 효율 향상
 
 #### 사용자 다운로드 이력 대시보드  
 ![image](https://github.com/user-attachments/assets/0a772f32-3a37-4828-994d-e094d2dacbbd)
++ 파일 다운로드 로그를 시각화한 관리자용 대시보드
++ 사용자별, 기간별 다운로드 이력을 필터링하고 분석 가능
++ 복잡한 로그 데이터를 차트로 구성해 시각적 분석 가능성 제공
+
 
 #### 불법 건축물 검출 모델 이미지 팝업  
 ![image](https://github.com/user-attachments/assets/2cdac5ae-ede8-47c9-ab31-f2e233aec8ff)
++ AI 기반 객체 검출 결과를 사용자에게 직관적으로 제공
++ 검출된 불법 건축물에 대해 해당 영역을 강조하여 이미지로 제공
++ 사용자 클릭 시 팝업으로 원본 이미지와 검출 데이터를 함께 확인 가능
++ 사용자 UX를 고려한 경량 팝업 구현으로 반응 속도 최적화
 
-![입력값 검증](./images/input_validation.png)  
-*정규 표현식을 통한 입력값 검증 및 피드백 처리*
+  
+### 정규 표현식을 통한 입력값 검증 및 피드백 처리 ###
+![image](https://github.com/user-attachments/assets/7ca9d9c2-330d-429a-a22c-816abe9a5559)
 
-![모바일 반응형 UI](./images/responsive_ui.png)  
-*반응형 UI 적용으로 다양한 해상도 대응*
+![image](https://github.com/user-attachments/assets/defb925e-d780-4894-b4d9-a855c9752d43)
+
+![image](https://github.com/user-attachments/assets/13c1b68a-26ad-457f-858a-cf8f88fa27ae)
+
++ 사용자 입력값에 대한 유효성 검사 수행
++ 이름, 전화번호, 이메일 등 필수 입력값에 대해 정규표현식(Regex)을 활용한 실시간 검증
++ 비정상 입력 시 경고 메시지를 통해 정확한 입력을 유도
 </details>
 
-### 📌 AI 기반 재난안전 데이터 연계 및 SmartCity 플랫폼 연동  
+
+## 📌 AI 기반 재난안전 데이터 연계 및 SmartCity 플랫폼 연동  
 **기간**: 2024.03 ~ 2024.06  
 **역할**: 백엔드 시스템 연계 개발  
 
@@ -80,7 +98,7 @@
 - Adapter 패턴 도입으로 유연한 시스템 설계
 - REST API 기반 데이터 연계 구조 설계
 
-### 📌 여성가족부 공모사업 시스템 운영 및 유지보수  
+## 📌 여성가족부 공모사업 시스템 운영 및 유지보수  
 **기간**: 2021.11 ~ 2023.11  
 **역할**: 웹 유지보수 및 기능 개선  
 
@@ -93,7 +111,7 @@
 - H/A 기반 이중화 서버 운영 및 장애 대응
 ---
 
-### 📌 창업보육센터 네트워크 시스템(Bi-Net) 개발  
+## 📌 창업보육센터 네트워크 시스템(Bi-Net) 개발  
 **기간**: 2023.04 ~ 2023.06  
 **역할**: 프론트 및 백엔드 개발  
 
@@ -107,7 +125,7 @@
 
 ## 🌱 개인 프로젝트
 
-### 📌 🎬 Movie Searcher (TMDB 기반 영화 검색 SPA)  
+## 📌 🎬 Movie Searcher (TMDB 기반 영화 검색 SPA)  
 **기간**: 2023.08 ~ 2023.09  
 **기술스택**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat)![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)![CSS Module](https://img.shields.io/badge/CSS--Modules-1572B6?style=flat)
@@ -118,7 +136,7 @@
 
 ---
 
-### 📌 ✅ Simple Task Manager (작업 관리 앱)  
+## 📌 ✅ Simple Task Manager (작업 관리 앱)  
 **기간**: 2022.12 ~ 2023.01  
 **기술스택**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)  
