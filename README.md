@@ -51,9 +51,15 @@
 
 **프로젝트 화면**
 <details>
-*echart.js를 활용한 실시간 통계 차트 구현*
-#### 사용자 현황  
+
+#### 사용자 현황
 ![image](https://github.com/user-attachments/assets/f7b03216-d02e-45c3-8423-500bbd17ebd1) 
+
+#### 사용자 다운로드 이력 대시보드  
+![image](https://github.com/user-attachments/assets/0a772f32-3a37-4828-994d-e094d2dacbbd)
+
+#### 불법 건축물 검출 모델 이미지 팝업  
+![image](https://github.com/user-attachments/assets/2cdac5ae-ede8-47c9-ab31-f2e233aec8ff)
 
 ![입력값 검증](./images/input_validation.png)  
 *정규 표현식을 통한 입력값 검증 및 피드백 처리*
