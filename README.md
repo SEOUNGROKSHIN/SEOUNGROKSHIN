@@ -1,9 +1,7 @@
 # 👨‍💻 Seoungrok's Web Development Journey
 
-비전공자로 개발에 입문했지만, 실제 프로젝트 현장에서 발생한 오류와 장애를 직접 분석하고 해결해오며 백엔드와 프론트엔드 모두에서 문제 해결 역량을 키워왔습니다.
-공공기관 중심의 SI·SM 프로젝트에 참여하며 REST API 설계, UI 개선, 데이터 정합성 검증, 보안 취약점 대응 등 실무 중심의 개발 경험을 쌓았습니다.
-단순 구현을 넘어, 사용자 중심의 기능 설계와 운영 환경에서의 안정성을 함께 고려하는 개발자로 성장하고 있습니다.
-
+현장에서 직접 문제를 해결하며 성장한 실전형 풀스택 개발자입니다.
+사용자 중심의 기능과 운영 안정성을 함께 고민하는 개발자입니다.
 ---
 
 ## 🎓 학력
@@ -20,131 +18,19 @@
 ## 🛠 기술 스택
 
 **Frontend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![jQuery](https://img.shields.io/badge/jQuery-0769AD?=flat&logo=jquery&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)![jQuery](https://img.shields.io/badge/jQuery-0769AD?=flat&logo=jquery&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)![Ajax](https://img.shields.io/badge/Ajax-4A4A4A?style=flat)
 
 **Backend**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat&logoColor=white)![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)
 
 **Database**  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)
----
 
-## 📌 울산 남구 공간정보 플랫폼 서비스 기능 확대
-**기간**: 2024.11 ~ 2025.04 <br/>
-**역할**: 프론트엔드·백엔드 API 연계 개발
-
-**기술스택**
-![Java](https://img.shields.io/badge/Java-007396?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![ECharts.js](https://img.shields.io/badge/ECharts.js-002A41?style=flat&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)
-![Ajax](https://img.shields.io/badge/Ajax-4A4A4A?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**주요 업무**
-- echart.js 기반 대시보드 및 차트 구현
-- 정규 표현식을 활용한 입력값 검증 로직 개발
-- UI/UX 개선 및 반응형 적용
-
-**프로젝트 화면**
-<details>
-
-#### 사용자 현황
-![image](https://github.com/user-attachments/assets/f7b03216-d02e-45c3-8423-500bbd17ebd1) 
-+ echart.js를 활용한 실시간 차트 시각화
-+ API에서 제공받은 사용자 데이터를 기반으로 실시간 현황을 시각화
-+ 소속 별 사용자 현황, 부서 별 사용자 현황 집계 분포를 직관적으로 표현하여 관리자 운영 효율 향상
-
-#### 사용자 다운로드 이력 대시보드  
-![image](https://github.com/user-attachments/assets/0a772f32-3a37-4828-994d-e094d2dacbbd)
-+ 파일 다운로드 로그를 시각화한 관리자용 대시보드
-+ 사용자별, 기간별 다운로드 이력을 필터링하고 분석 가능
-+ 복잡한 로그 데이터를 차트로 구성해 시각적 분석 가능성 제공
-
-
-#### 불법 건축물 검출 모델 이미지 팝업  
-![image](https://github.com/user-attachments/assets/2cdac5ae-ede8-47c9-ab31-f2e233aec8ff)
-+ AI 기반 객체 검출 결과를 사용자에게 직관적으로 제공
-+ 검출된 불법 건축물에 대해 해당 영역을 강조하여 이미지로 제공
-+ 사용자 클릭 시 팝업으로 원본 이미지와 검출 데이터를 함께 확인 가능
-+ 사용자 UX를 고려한 경량 팝업 구현으로 반응 속도 최적화
-
-  
-### 정규 표현식을 통한 입력값 검증 및 피드백 처리 ###
-![image](https://github.com/user-attachments/assets/7ca9d9c2-330d-429a-a22c-816abe9a5559)
-
-![image](https://github.com/user-attachments/assets/defb925e-d780-4894-b4d9-a855c9752d43)
-
-![image](https://github.com/user-attachments/assets/13c1b68a-26ad-457f-858a-cf8f88fa27ae)
-
-+ 사용자 입력값에 대한 유효성 검사 수행
-+ 이름, 전화번호, 이메일 등 필수 입력값에 대해 정규표현식(Regex)을 활용한 실시간 검증
-+ 비정상 입력 시 경고 메시지를 통해 정확한 입력을 유도
-</details>
-
-
-## 📌 AI 기반 재난안전 데이터 연계 및 SmartCity 플랫폼 연동  
-**기간**: 2024.03 ~ 2024.06  
-**역할**: 백엔드 시스템 연계 개발  
-
-**기술스택**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![REST API](https://img.shields.io/badge/REST--API-000000?style=flat)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
-
-**주요 업무**
-- IoT/CCTV 등 공공 데이터 실시간 연동
-- Adapter 패턴 도입으로 유연한 시스템 설계
-- REST API 기반 데이터 연계 구조 설계
-
-## 📌 여성가족부 공모사업 시스템 운영 및 유지보수  
-**기간**: 2021.11 ~ 2023.11  
-**역할**: 웹 유지보수 및 기능 개선  
-
-**기술스택**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![JSP](https://img.shields.io/badge/JSP-007396?style=flat)![Tibero](https://img.shields.io/badge/Tibero-0053A0?style=flat&logoColor=white)![CronixReport](https://img.shields.io/badge/CronixReport-336791?style=flat)
-
-주요 업무
-- 공모 절차 기능 개선 및 리포트 커스터마이징
-- 보안 취약점 점검 및 코드 리팩토링
-- H/A 기반 이중화 서버 운영 및 장애 대응
----
-
-## 📌 창업보육센터 네트워크 시스템(Bi-Net) 개발  
-**기간**: 2023.04 ~ 2023.06  
-**역할**: 프론트 및 백엔드 개발  
-
-**기술스택**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat)![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat)
-
-**주요 업무**
-- 국세청 API 연동 통한 사업자 실시간 검증
-- 고용/매출 데이터 차트 시각화 및 조회 기능
-- 시스템 안정화 및 데이터 처리 로직 개선
-
-## 🌱 개인 프로젝트
-
-## 📌 🎬 Movie Searcher (TMDB 기반 영화 검색 SPA)  
-**기간**: 2023.08 ~ 2023.09  
-**기술스택**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat)![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)![CSS Module](https://img.shields.io/badge/CSS--Modules-1572B6?style=flat)
-
-- TMDB API 기반 실시간 영화 검색 및 상세정보 제공
-- React Router로 SPA 설계, 모바일 반응형 적용
-- Axios로 비동기 통신 및 예외 처리 구현
+**Tools**<br>
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/) [![EgovFrame](https://img.shields.io/badge/EgovFrame-003478?style=flat&logoColor=white)](https://www.egovframe.go.kr/) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/) [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 
 ---
-
-## 📌 ✅ Simple Task Manager (작업 관리 앱)  
-**기간**: 2022.12 ~ 2023.01  
-**기술스택**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)  
-![LocalStorage](https://img.shields.io/badge/LocalStorage-000000?style=flat)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat)
-
-- 로컬스토리지 기반 CRUD 구현
-- 단순한 To-do 앱이지만 상태 관리 로직 설계로 로컬 데이터 지속성 확보
 
 ## 🙏 Thanks for your attention ##
 ---
